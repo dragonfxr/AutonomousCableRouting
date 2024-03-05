@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=44ud-408be0&list=PLSRmLAcBxallVHnpcKzguajrszkn9c
 ## More videos
 
 # How to contact
-If you have more advice on the project or you want to give a new developer like me some hints, please contact me.
+If you have more advice on the project or you want to me some hints, please contact me.
 
 Email:
 
