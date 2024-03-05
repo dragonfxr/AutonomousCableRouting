@@ -1,0 +1,15 @@
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\bin\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.exe
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\bin\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.deps.json
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\bin\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.runtimeconfig.json
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\bin\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.runtimeconfig.dev.json
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\bin\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.dll
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\bin\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.pdb
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\obj\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.csprojAssemblyReference.cache
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\obj\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.AssemblyInfoInputs.cache
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\obj\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.AssemblyInfo.cs
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\obj\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.dll
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\obj\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.pdb
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\obj\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.genruntimeconfig.cache
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\obj\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.csproj.CoreCompileInputs.cache
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\krwme\Documents\university\ElectricalCableJsonVisualiser\obj\Debug\netcoreapp3.1\ElectricalCableJsonVisualiser.csproj.CopyComplete

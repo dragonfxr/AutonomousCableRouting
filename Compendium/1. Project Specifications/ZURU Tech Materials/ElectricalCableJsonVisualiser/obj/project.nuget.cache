@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JcjhmWvWnt2mT0scrPPFYSwOsmPW28CoaOfx1aKj943wiesUrIvoZ6TDDg1IbYgXBQngcK150jJdrWWq6MnfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krwme\\Documents\\university\\ElectricalCableJsonVisualiser\\ElectricalCableJsonVisualiser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krwme\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

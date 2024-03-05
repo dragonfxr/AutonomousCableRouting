@@ -1,0 +1,2625 @@
+{
+	"id": "6",
+	"thickness": 192,
+	"world_bottom_start":
+	{
+		"x": 245.99993896484375,
+		"y": -29.000053405761719,
+		"z": 0
+	},
+	"world_up_end":
+	{
+		"x": 246.00018310546875,
+		"y": 1129,
+		"z": 0
+	},
+	"contour":
+	{
+		"points": [
+			{
+				"x": 0,
+				"y": 0
+			},
+			{
+				"x": 0,
+				"y": 1500
+			},
+			{
+				"x": 1158,
+				"y": 1500
+			},
+			{
+				"x": 1158,
+				"y": 0
+			}
+		]
+	},
+	"slices": [
+		{
+			"id": "_s0",
+			"column": 0,
+			"contour":
+			{
+				"points": [
+					{
+						"x": 0,
+						"y": 0
+					},
+					{
+						"x": 0,
+						"y": 750
+					},
+					{
+						"x": 386,
+						"y": 750
+					},
+					{
+						"x": 386,
+						"y": 0
+					}
+				]
+			},
+			"glueSegments": []
+		},
+		{
+			"id": "_s1",
+			"column": 1,
+			"contour":
+			{
+				"points": [
+					{
+						"x": 386,
+						"y": 0
+					},
+					{
+						"x": 386,
+						"y": 750
+					},
+					{
+						"x": 772,
+						"y": 750
+					},
+					{
+						"x": 772,
+						"y": 0
+					}
+				]
+			},
+			"glueSegments": [
+				{
+					"start":
+					{
+						"x": 386,
+						"y": 750
+					},
+					"end":
+					{
+						"x": 386,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"id": "_s2",
+			"column": 2,
+			"contour":
+			{
+				"points": [
+					{
+						"x": 772,
+						"y": 0
+					},
+					{
+						"x": 772,
+						"y": 750
+					},
+					{
+						"x": 1158,
+						"y": 750
+					},
+					{
+						"x": 1158,
+						"y": 0
+					}
+				]
+			},
+			"glueSegments": [
+				{
+					"start":
+					{
+						"x": 772,
+						"y": 750
+					},
+					"end":
+					{
+						"x": 772,
+						"y": 0
+					}
+				}
+			]
+		},
+		{
+			"id": "_s3",
+			"column": 0,
+			"contour":
+			{
+				"points": [
+					{
+						"x": 0,
+						"y": 750
+					},
+					{
+						"x": 0,
+						"y": 1500
+					},
+					{
+						"x": 386,
+						"y": 1500
+					},
+					{
+						"x": 386,
+						"y": 750
+					}
+				]
+			},
+			"glueSegments": []
+		},
+		{
+			"id": "_s4",
+			"column": 1,
+			"contour":
+			{
+				"points": [
+					{
+						"x": 386,
+						"y": 750
+					},
+					{
+						"x": 386,
+						"y": 1500
+					},
+					{
+						"x": 772,
+						"y": 1500
+					},
+					{
+						"x": 772,
+						"y": 750
+					}
+				]
+			},
+			"glueSegments": [
+				{
+					"start":
+					{
+						"x": 386,
+						"y": 1500
+					},
+					"end":
+					{
+						"x": 386,
+						"y": 750
+					}
+				}
+			]
+		},
+		{
+			"id": "_s5",
+			"column": 2,
+			"contour":
+			{
+				"points": [
+					{
+						"x": 772,
+						"y": 750
+					},
+					{
+						"x": 772,
+						"y": 1500
+					},
+					{
+						"x": 1158,
+						"y": 1500
+					},
+					{
+						"x": 1158,
+						"y": 750
+					}
+				]
+			},
+			"glueSegments": [
+				{
+					"start":
+					{
+						"x": 772,
+						"y": 1500
+					},
+					"end":
+					{
+						"x": 772,
+						"y": 750
+					}
+				}
+			]
+		}
+	],
+	"tilingFaces": [
+		{
+			"placement":
+			{
+				"origin":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"normal":
+				{
+					"x": -0.99999988079071045,
+					"y": 5.9604644775390625e-08,
+					"z": 0
+				}
+			},
+			"tileJoints":
+			{
+				"jointSize":
+				{
+					"x": 3,
+					"y": 3
+				},
+				"jointColour": "Grey"
+			},
+			"tiles": [
+				{
+					"id": "_tD0",
+					"contour":
+					{
+						"points": [
+							{
+								"x": -4,
+								"y": 0
+							},
+							{
+								"x": -4,
+								"y": 800
+							},
+							{
+								"x": 196,
+								"y": 800
+							},
+							{
+								"x": 196,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 21.000099182128906,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tD1",
+					"contour":
+					{
+						"points": [
+							{
+								"x": -4,
+								"y": 800
+							},
+							{
+								"x": -4,
+								"y": 1500
+							},
+							{
+								"x": 196,
+								"y": 1500
+							},
+							{
+								"x": 196,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 21.000099182128906,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				}
+			]
+		},
+		{
+			"placement":
+			{
+				"origin":
+				{
+					"x": 1158,
+					"y": 192,
+					"z": 0
+				},
+				"normal":
+				{
+					"x": 0.99999988079071045,
+					"y": 5.9604644775390625e-08,
+					"z": 0
+				}
+			},
+			"tileJoints":
+			{
+				"jointSize":
+				{
+					"x": 3,
+					"y": 3
+				},
+				"jointColour": "Grey"
+			},
+			"tiles": [
+				{
+					"id": "_tC0",
+					"contour":
+					{
+						"points": [
+							{
+								"x": -4,
+								"y": 0
+							},
+							{
+								"x": -4,
+								"y": 800
+							},
+							{
+								"x": 196,
+								"y": 800
+							},
+							{
+								"x": 196,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 20.999908447265625,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tC1",
+					"contour":
+					{
+						"points": [
+							{
+								"x": -4,
+								"y": 800
+							},
+							{
+								"x": -4,
+								"y": 1500
+							},
+							{
+								"x": 196,
+								"y": 1500
+							},
+							{
+								"x": 196,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 20.999908447265625,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				}
+			]
+		},
+		{
+			"placement":
+			{
+				"origin":
+				{
+					"x": 1158,
+					"y": 0,
+					"z": 0
+				},
+				"normal":
+				{
+					"x": 2.3841855067985307e-07,
+					"y": -0.9999995231628418,
+					"z": 0
+				}
+			},
+			"tileJoints":
+			{
+				"jointSize":
+				{
+					"x": 3,
+					"y": 3
+				},
+				"jointColour": "Grey"
+			},
+			"tiles": [
+				{
+					"id": "_tB0",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 0,
+								"y": 0
+							},
+							{
+								"x": 0,
+								"y": 800
+							},
+							{
+								"x": 264.5,
+								"y": 800
+							},
+							{
+								"x": 264.5,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB1",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 0,
+								"y": 800
+							},
+							{
+								"x": 0,
+								"y": 1500
+							},
+							{
+								"x": 264.5,
+								"y": 1500
+							},
+							{
+								"x": 264.5,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB2",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 264.5,
+								"y": 0
+							},
+							{
+								"x": 264.5,
+								"y": 800
+							},
+							{
+								"x": 529,
+								"y": 800
+							},
+							{
+								"x": 529,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB3",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 264.5,
+								"y": 800
+							},
+							{
+								"x": 264.5,
+								"y": 1500
+							},
+							{
+								"x": 529,
+								"y": 1500
+							},
+							{
+								"x": 529,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB4",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 529,
+								"y": 0
+							},
+							{
+								"x": 529,
+								"y": 800
+							},
+							{
+								"x": 793.5,
+								"y": 800
+							},
+							{
+								"x": 793.5,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB5",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 529,
+								"y": 800
+							},
+							{
+								"x": 529,
+								"y": 1500
+							},
+							{
+								"x": 793.5,
+								"y": 1500
+							},
+							{
+								"x": 793.5,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB6",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 793.5,
+								"y": 0
+							},
+							{
+								"x": 793.5,
+								"y": 800
+							},
+							{
+								"x": 1058,
+								"y": 800
+							},
+							{
+								"x": 1058,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB7",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 793.5,
+								"y": 800
+							},
+							{
+								"x": 793.5,
+								"y": 1500
+							},
+							{
+								"x": 1058,
+								"y": 1500
+							},
+							{
+								"x": 1058,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB8",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 1058,
+								"y": 0
+							},
+							{
+								"x": 1058,
+								"y": 800
+							},
+							{
+								"x": 1158,
+								"y": 800
+							},
+							{
+								"x": 1158,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tB9",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 1058,
+								"y": 800
+							},
+							{
+								"x": 1058,
+								"y": 1500
+							},
+							{
+								"x": 1158,
+								"y": 1500
+							},
+							{
+								"x": 1158,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 4.0000319480895996,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				}
+			]
+		},
+		{
+			"placement":
+			{
+				"origin":
+				{
+					"x": 0,
+					"y": 192,
+					"z": 0
+				},
+				"normal":
+				{
+					"x": 0,
+					"y": 1,
+					"z": 0
+				}
+			},
+			"tileJoints":
+			{
+				"jointSize":
+				{
+					"x": 3,
+					"y": 3
+				},
+				"jointColour": "Grey"
+			},
+			"tiles": [
+				{
+					"id": "_tA0",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 0,
+								"y": 0
+							},
+							{
+								"x": 0,
+								"y": 800
+							},
+							{
+								"x": 264.5,
+								"y": 800
+							},
+							{
+								"x": 264.5,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA1",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 0,
+								"y": 800
+							},
+							{
+								"x": 0,
+								"y": 1500
+							},
+							{
+								"x": 264.5,
+								"y": 1500
+							},
+							{
+								"x": 264.5,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA2",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 264.5,
+								"y": 0
+							},
+							{
+								"x": 264.5,
+								"y": 800
+							},
+							{
+								"x": 529,
+								"y": 800
+							},
+							{
+								"x": 529,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA3",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 264.5,
+								"y": 800
+							},
+							{
+								"x": 264.5,
+								"y": 1500
+							},
+							{
+								"x": 529,
+								"y": 1500
+							},
+							{
+								"x": 529,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA4",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 529,
+								"y": 0
+							},
+							{
+								"x": 529,
+								"y": 800
+							},
+							{
+								"x": 793.5,
+								"y": 800
+							},
+							{
+								"x": 793.5,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA5",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 529,
+								"y": 800
+							},
+							{
+								"x": 529,
+								"y": 1500
+							},
+							{
+								"x": 793.5,
+								"y": 1500
+							},
+							{
+								"x": 793.5,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA6",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 793.5,
+								"y": 0
+							},
+							{
+								"x": 793.5,
+								"y": 800
+							},
+							{
+								"x": 1058,
+								"y": 800
+							},
+							{
+								"x": 1058,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA7",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 793.5,
+								"y": 800
+							},
+							{
+								"x": 793.5,
+								"y": 1500
+							},
+							{
+								"x": 1058,
+								"y": 1500
+							},
+							{
+								"x": 1058,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA8",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 1058,
+								"y": 0
+							},
+							{
+								"x": 1058,
+								"y": 800
+							},
+							{
+								"x": 1158,
+								"y": 800
+							},
+							{
+								"x": 1158,
+								"y": 0
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				},
+				{
+					"id": "_tA9",
+					"contour":
+					{
+						"points": [
+							{
+								"x": 1058,
+								"y": 800
+							},
+							{
+								"x": 1058,
+								"y": 1500
+							},
+							{
+								"x": 1158,
+								"y": 1500
+							},
+							{
+								"x": 1158,
+								"y": 800
+							}
+						]
+					},
+					"tileThickness": 3.9999580383300781,
+					"textureInfo":
+					{
+						"id": "A",
+						"pivotPosition":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"textureRotation":
+						{
+							"x": 0,
+							"y": 0
+						},
+						"contour":
+						{
+							"points": []
+						}
+					}
+				}
+			]
+		}
+	],
+	"holes": [],
+	"rebars": [
+		{
+			"id": "_r4",
+			"startPoint":
+			{
+				"x": 579,
+				"y": 172,
+				"z": 0
+			},
+			"startThreading": false,
+			"endPoint":
+			{
+				"x": 579,
+				"y": 172,
+				"z": 1500
+			},
+			"endThreading": false,
+			"length": 1500,
+			"diameter": 6,
+			"direction":
+			{
+				"x": 0,
+				"y": -1,
+				"z": 0
+			}
+		},
+		{
+			"id": "_r3",
+			"startPoint":
+			{
+				"x": 792,
+				"y": 172,
+				"z": 0
+			},
+			"startThreading": false,
+			"endPoint":
+			{
+				"x": 792,
+				"y": 172,
+				"z": 1500
+			},
+			"endThreading": false,
+			"length": 1500,
+			"diameter": 6,
+			"direction":
+			{
+				"x": 0,
+				"y": -1,
+				"z": 0
+			}
+		},
+		{
+			"id": "_r2",
+			"startPoint":
+			{
+				"x": 1088,
+				"y": 172,
+				"z": 0
+			},
+			"startThreading": false,
+			"endPoint":
+			{
+				"x": 1088,
+				"y": 172,
+				"z": 1500
+			},
+			"endThreading": false,
+			"length": 1500,
+			"diameter": 6,
+			"direction":
+			{
+				"x": 0,
+				"y": -1,
+				"z": 0
+			}
+		},
+		{
+			"id": "_r1",
+			"startPoint":
+			{
+				"x": 366,
+				"y": 172,
+				"z": 0
+			},
+			"startThreading": false,
+			"endPoint":
+			{
+				"x": 366,
+				"y": 172,
+				"z": 1500
+			},
+			"endThreading": false,
+			"length": 1500,
+			"diameter": 6,
+			"direction":
+			{
+				"x": 0,
+				"y": -1,
+				"z": 0
+			}
+		},
+		{
+			"id": "_r0",
+			"startPoint":
+			{
+				"x": 70,
+				"y": 172,
+				"z": 0
+			},
+			"startThreading": false,
+			"endPoint":
+			{
+				"x": 70,
+				"y": 172,
+				"z": 1500
+			},
+			"endThreading": false,
+			"length": 1500,
+			"diameter": 6,
+			"direction":
+			{
+				"x": 0,
+				"y": -1,
+				"z": 0
+			}
+		},
+		{
+			"id": "_r5",
+			"startPoint":
+			{
+				"x": 1158,
+				"y": 166,
+				"z": 600
+			},
+			"startThreading": false,
+			"endPoint":
+			{
+				"x": 0,
+				"y": 166,
+				"z": 600
+			},
+			"endThreading": false,
+			"length": 1158,
+			"diameter": 6,
+			"direction":
+			{
+				"x": 0,
+				"y": -1,
+				"z": 0
+			}
+		},
+		{
+			"id": "_r6",
+			"startPoint":
+			{
+				"x": 1158,
+				"y": 166,
+				"z": 350
+			},
+			"startThreading": false,
+			"endPoint":
+			{
+				"x": 0,
+				"y": 166,
+				"z": 350
+			},
+			"endThreading": false,
+			"length": 1158,
+			"diameter": 6,
+			"direction":
+			{
+				"x": 0,
+				"y": -1,
+				"z": 0
+			}
+		},
+		{
+			"id": "_r7",
+			"startPoint":
+			{
+				"x": 1158,
+				"y": 166,
+				"z": 100
+			},
+			"startThreading": false,
+			"endPoint":
+			{
+				"x": 0,
+				"y": 166,
+				"z": 100
+			},
+			"endThreading": false,
+			"length": 1158,
+			"diameter": 6,
+			"direction":
+			{
+				"x": 0,
+				"y": -1,
+				"z": 0
+			}
+		}
+	],
+	"rebarMounts": [],
+	"rebarMounts-TypeB": [],
+	"cones": [],
+	"orderNumber": 1,
+	"avoidanceSlot": false,
+	"electricalCablePaths": [
+		{
+			"id": "_p1",
+			"wireType": 2,
+			"length": 762,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 46,
+							"y": 1000,
+							"type": 1
+						},
+						{
+							"x": 46,
+							"y": 490,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 46,
+							"y": 490,
+							"type": 0
+						},
+						{
+							"x": 70.895,
+							"y": 430.895,
+							"type": 0
+						},
+						{
+							"x": 130,
+							"y": 406,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 130,
+							"y": 406,
+							"type": 0
+						},
+						{
+							"x": 263.46,
+							"y": 406,
+							"type": 2
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p2",
+			"wireType": 4,
+			"length": 1128,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 80,
+							"y": 1000,
+							"type": 1
+						},
+						{
+							"x": 80,
+							"y": 530,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 80,
+							"y": 530,
+							"type": 0
+						},
+						{
+							"x": 104.895,
+							"y": 469.895,
+							"type": 0
+						},
+						{
+							"x": 165,
+							"y": 445,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 165,
+							"y": 445,
+							"type": 0
+						},
+						{
+							"x": 266.29,
+							"y": 445,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg4",
+					"line": false,
+					"points": [
+						{
+							"x": 266.29,
+							"y": 445,
+							"type": 0
+						},
+						{
+							"x": 326.395,
+							"y": 469.895,
+							"type": 0
+						},
+						{
+							"x": 351.29,
+							"y": 530,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg5",
+					"line": true,
+					"points": [
+						{
+							"x": 351.29,
+							"y": 530,
+							"type": 0
+						},
+						{
+							"x": 351.29,
+							"y": 584.32,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg6",
+					"line": false,
+					"points": [
+						{
+							"x": 351.29,
+							"y": 584.32,
+							"type": 0
+						},
+						{
+							"x": 376.185,
+							"y": 644.42,
+							"type": 0
+						},
+						{
+							"x": 436.29,
+							"y": 669.32,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg7",
+					"line": true,
+					"points": [
+						{
+							"x": 436.29,
+							"y": 669.32,
+							"type": 0
+						},
+						{
+							"x": 550,
+							"y": 669.32,
+							"type": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p3",
+			"wireType": 4,
+			"length": 250,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 105,
+							"y": 1000,
+							"type": 1
+						},
+						{
+							"x": 105,
+							"y": 960,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 105,
+							"y": 960,
+							"type": 0
+						},
+						{
+							"x": 129.895,
+							"y": 899.895,
+							"type": 0
+						},
+						{
+							"x": 190,
+							"y": 875,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 190,
+							"y": 875,
+							"type": 0
+						},
+						{
+							"x": 272.17,
+							"y": 875,
+							"type": 2
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p4",
+			"wireType": 4,
+			"length": 200,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 297.17,
+							"y": 850,
+							"type": 2
+						},
+						{
+							"x": 297.17,
+							"y": 650,
+							"type": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p5",
+			"wireType": 4,
+			"length": 305,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": false,
+					"points": [
+						{
+							"x": 322.17,
+							"y": 875,
+							"type": 2
+						},
+						{
+							"x": 395.105,
+							"y": 850.105,
+							"type": 0
+						},
+						{
+							"x": 420,
+							"y": 790,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 420,
+							"y": 790,
+							"type": 0
+						},
+						{
+							"x": 444.895,
+							"y": 725.825,
+							"type": 0
+						},
+						{
+							"x": 505,
+							"y": 700.93,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 505,
+							"y": 700.93,
+							"type": 0
+						},
+						{
+							"x": 550,
+							"y": 700.93,
+							"type": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p6",
+			"wireType": 2,
+			"length": 325,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 289.46,
+							"y": 380,
+							"type": 2
+						},
+						{
+							"x": 289.46,
+							"y": 55,
+							"type": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p7",
+			"wireType": 2,
+			"length": 389,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 315.46,
+							"y": 406,
+							"type": 2
+						},
+						{
+							"x": 354.96,
+							"y": 406,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 354.96,
+							"y": 406,
+							"type": 0
+						},
+						{
+							"x": 414.065,
+							"y": 430.895,
+							"type": 0
+						},
+						{
+							"x": 438.96,
+							"y": 490,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 438.96,
+							"y": 490,
+							"type": 0
+						},
+						{
+							"x": 438.96,
+							"y": 552.17,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg4",
+					"line": false,
+					"points": [
+						{
+							"x": 438.96,
+							"y": 552.17,
+							"type": 0
+						},
+						{
+							"x": 463.86,
+							"y": 613.275,
+							"type": 0
+						},
+						{
+							"x": 524.96,
+							"y": 638.17,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg5",
+					"line": true,
+					"points": [
+						{
+							"x": 524.96,
+							"y": 638.17,
+							"type": 0
+						},
+						{
+							"x": 550,
+							"y": 638.17,
+							"type": 1
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "_p8",
+			"wireType": 2,
+			"length": 285,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 600,
+							"y": 1000,
+							"type": 1
+						},
+						{
+							"x": 600,
+							"y": 715,
+							"type": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p9",
+			"wireType": 2,
+			"length": 644,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 591.45,
+							"y": 55,
+							"type": 1
+						},
+						{
+							"x": 591.45,
+							"y": 449,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 591.45,
+							"y": 449,
+							"type": 0
+						},
+						{
+							"x": 616.35,
+							"y": 508.105,
+							"type": 0
+						},
+						{
+							"x": 67.45,
+							"y": 533,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 67.45,
+							"y": 533,
+							"type": 0
+						},
+						{
+							"x": 795.63,
+							"y": 533,
+							"type": 2
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p10",
+			"wireType": 4,
+			"length": 216,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 650,
+							"y": 638.17,
+							"type": 1
+						},
+						{
+							"x": 736.02,
+							"y": 638.17,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 736.02,
+							"y": 638.17,
+							"type": 0
+						},
+						{
+							"x": 795.47,
+							"y": 614.84,
+							"type": 0
+						},
+						{
+							"x": 821.5,
+							"y": 561.28,
+							"type": 2
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p11",
+			"wireType": 4,
+			"length": 1244,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 650,
+							"y": 700.93,
+							"type": 1
+						},
+						{
+							"x": 780,
+							"y": 669.32,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 780,
+							"y": 669.32,
+							"type": 0
+						},
+						{
+							"x": 840.105,
+							"y": 644.42,
+							"type": 0
+						},
+						{
+							"x": 865,
+							"y": 584.32,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 865,
+							"y": 584.32,
+							"type": 0
+						},
+						{
+							"x": 865,
+							"y": 450.08,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg4",
+					"line": false,
+					"points": [
+						{
+							"x": 865,
+							"y": 450.08,
+							"type": 0
+						},
+						{
+							"x": 889.895,
+							"y": 389.975,
+							"type": 0
+						},
+						{
+							"x": 950,
+							"y": 365.08,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg5",
+					"line": true,
+					"points": [
+						{
+							"x": 950,
+							"y": 365.08,
+							"type": 0
+						},
+						{
+							"x": 991.68,
+							"y": 365.08,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg6",
+					"line": false,
+					"points": [
+						{
+							"x": 991.68,
+							"y": 365.08,
+							"type": 0
+						},
+						{
+							"x": 1055.32,
+							"y": 386.44,
+							"type": 0
+						},
+						{
+							"x": 1076.68,
+							"y": 450.08,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg7",
+					"line": true,
+					"points": [
+						{
+							"x": 1072.68,
+							"y": 450.08,
+							"type": 0
+						},
+						{
+							"x": 1076.68,
+							"y": 1000,
+							"type": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p12",
+			"wireType": 4,
+			"length": 246,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 650,
+							"y": 700.93,
+							"type": 1
+						},
+						{
+							"x": 690.96,
+							"y": 700.93,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 690.95,
+							"y": 700.93,
+							"type": 0
+						},
+						{
+							"x": 708.555,
+							"y": 702.77,
+							"type": 0
+						},
+						{
+							"x": 725.395,
+							"y": 708.22,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 725.395,
+							"y": 708.22,
+							"type": 0
+						},
+						{
+							"x": 859.605,
+							"y": 767.71,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg4",
+					"line": false,
+					"points": [
+						{
+							"x": 859.605,
+							"y": 767.71,
+							"type": 0
+						},
+						{
+							"x": 876.445,
+							"y": 773.16,
+							"type": 0
+						},
+						{
+							"x": 894.05,
+							"y": 770,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg5",
+					"line": true,
+					"points": [
+						{
+							"x": 894.05,
+							"y": 775,
+							"type": 0
+						},
+						{
+							"x": 955,
+							"y": 775,
+							"type": 2
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "_p13",
+			"wireType": 4,
+			"length": 200,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 980,
+							"y": 1000,
+							"type": 1
+						},
+						{
+							"x": 980,
+							"y": 800,
+							"type": 2
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p14",
+			"wireType": 4,
+			"length": 265,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 980,
+							"y": 750,
+							"type": 2
+						},
+						{
+							"x": 980,
+							"y": 485,
+							"type": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p15",
+			"wireType": 2,
+			"length": 240,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 822.02,
+							"y": 507,
+							"type": 2
+						},
+						{
+							"x": 822.02,
+							"y": 307,
+							"type": 2
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p16",
+			"wireType": 2,
+			"length": 970,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 848.02,
+							"y": 281,
+							"type": 2
+						},
+						{
+							"x": 1055.68,
+							"y": 281,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg2",
+					"line": false,
+					"points": [
+						{
+							"x": 1055.68,
+							"y": 281,
+							"type": 0
+						},
+						{
+							"x": 1116.785,
+							"y": 305.895,
+							"type": 0
+						},
+						{
+							"x": 1141.68,
+							"y": 367,
+							"type": 0
+						}
+					]
+				},
+				{
+					"id": "_seg3",
+					"line": true,
+					"points": [
+						{
+							"x": 1141.68,
+							"y": 367,
+							"type": 0
+						},
+						{
+							"x": 1141.68,
+							"y": 1000,
+							"type": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "_p17",
+			"wireType": 2,
+			"length": 200,
+			"segments": [
+				{
+					"id": "_seg1",
+					"line": true,
+					"points": [
+						{
+							"x": 822.02,
+							"y": 255,
+							"type": 2
+						},
+						{
+							"x": 822.02,
+							"y": 55,
+							"type": 1
+						}
+					]
+				}
+			]
+		}
+
+
+
+
+	],
+	"electricalJunction": [
+		{
+			"id": "_j1",
+			"position": {
+				"x": 289.46,
+				"y": 406
+			},
+			"orientation": 0
+		},
+		{
+			"id": "_j2",
+			"position": {
+				"x": 297.17,
+				"y": 875
+			},
+			"orientation": 0
+		},
+		{
+			"id": "_j3",
+			"position": {
+				"x": 980,
+				"y": 775
+			},
+			"orientation": 90
+		},
+		{
+			"id": "_j4",
+			"position": {
+				"x": 822.02,
+				"y": 533
+			},
+			"orientation": 90
+		},
+		{
+			"id": "_j5",
+			"position": {
+				"x": 822.02,
+				"y": 281
+			},
+			"orientation": 270
+		}
+	]
+}

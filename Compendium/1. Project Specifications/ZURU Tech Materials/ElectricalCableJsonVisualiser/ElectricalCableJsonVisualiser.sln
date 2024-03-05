@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectricalCableJsonVisualiser", "ElectricalCableJsonVisualiser.csproj", "{AD4010C7-A934-45D8-925B-9169B9C5F091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4010C7-A934-45D8-925B-9169B9C5F091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4010C7-A934-45D8-925B-9169B9C5F091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4010C7-A934-45D8-925B-9169B9C5F091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4010C7-A934-45D8-925B-9169B9C5F091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E4FE75-6DA1-4973-8053-A227334A26C3}
+	EndGlobalSection
+EndGlobal
