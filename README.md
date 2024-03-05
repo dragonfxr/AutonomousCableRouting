@@ -7,20 +7,22 @@ Research project on Autonomous Routing and Connection of Multi-Core Cables into 
 ## Project Description
 The demand for affordable housing is increasing rapidly. Driven by high labour costs, home
 prices are climbing ever higher. Therefore, some new methods are introduced to reduce
-construction costs. A solution is automatic pre-fabrication of homes, improving construction
-efficiency in terms of time and labour cost. This project focuses on automating handling
-and routing of electrical calbes in pre-fabricated walls, employing a sophisticated robotic
+construction costs. A solution is the automatic pre-fabrication of homes, improving construction
+efficiency in terms of time and labour cost. This project focuses on automating the handling
+and routing of electrical cables in pre-fabricated walls, employing a sophisticated robotic
 end-effector, a path planning scheme to appropriately control the robot arm, and specially
-design connector solutions for connecting individual cable cores in 3-way junctions.
+designed connector solutions for connecting individual cable cores in 3-way junctions.
+
 The proposed robotic end-effector is equipped with a cable feeding mechanism and it
 can press-fit the electrical cables into narrow channels created in concrete pre-fabricated
 walls. The end-effector shows reliable and repeatable operation. The research also presents
-two types of connector designs that can facilitate connection of the cable cores in the
+two types of connector designs that can facilitate the connection of the cable cores in the
 junctions of pre-fabricated walls. The installation of connectors is based on a machine
 vision framework implemented in MATLAB. The machine vision framework can identify
 the colours of cables and locate the cables.
+
 Robot programming and path planning relied on kinaesthetic teaching. The results showed
-the speed of routing using robotic arms is far exceed manual routing.
+the speed of routing using robotic arms far exceeds manual routing.
 
 ## Acknowledgement
 I would like to thank the following:
