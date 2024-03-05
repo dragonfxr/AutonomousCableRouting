@@ -42,9 +42,7 @@ You can always click and check the files above. If they are not obvious, please 
 https://www.youtube.com/watch?v=44ud-408be0&list=PLSRmLAcBxallVHnpcKzguajrszkn9cb2G&index=4&t=2s
 
 ## Link for the research report
-
-
-## More videos
+[Report.pdf](https://github.com/dragonfxr/AutonomousCableRouting/files/14495556/Report_xfen422.pdf)
 
 # How to contact
 If you have more advice on the project or you want to me some hints, please contact me.
